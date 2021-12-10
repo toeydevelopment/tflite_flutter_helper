@@ -312,8 +312,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "feature/xnnpack_delegate"
-      resolved-ref: "4983536a02ce60c42745887f8c3f0cd32dfc6371"
+      ref: "feature/xnnpack_delegate_mac"
+      resolved-ref: "94c7d2f1ad0a0aad44bec2ed228d2445d7d951ff"
       url: "https://github.com/JaeHeee/tflite_flutter_plugin.git"
     source: git
     version: "0.9.0"
